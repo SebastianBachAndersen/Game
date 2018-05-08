@@ -13,8 +13,6 @@ print("Hello, World!")
              print("you lucky you can pass")
         }else{
             print("u not lucky try agian")
-            tryAgian()
-        }
-    }
+            tryAgian()}}
     tryAgian()
 
