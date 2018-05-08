@@ -1,5 +1,4 @@
 import Foundation
-print("Hello, World!")
 
     print("first u need to have da luck of da pricense")
     print("\nfirst u need to pick da number im thinking")
