@@ -1,11 +1,5 @@
 import Foundation
-print("Hello, World!")
-
-    print("first u need to have da luck of da pricense")
-    print("\nfirst u need to pick da number im thinking")
-    print("+-----------------+")
-    print("| between 1 and 5 |")
-    print("+-----------------+")
+print("Hello, World!\nfirst u need to have da luck of da pricense\nfirst u need to pick da number im thinking\n+-----------------+\n| between 1 and 5 |\n+-----------------+")
     var number = arc4random_uniform(5)+1
     func tryAgian(){
         let response = readLine()
@@ -15,4 +9,3 @@ print("Hello, World!")
             print("u not lucky try agian")
             tryAgian()}}
     tryAgian()
-
